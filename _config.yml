@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Linhaidu"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an Digital IC Designer."
+  bio              : "Digital IC Designer."
   location         : "ShenZhen China"
   email            : haidulin@gmail.com
   links:
