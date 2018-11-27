@@ -292,8 +292,8 @@ defaults:
       share: true
       related: true
 
-  #defaults:
-_pages:
+defaults:
+  #_pages:
   - scope:
       path: "/_pages/"
       type: pages
