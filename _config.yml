@@ -286,7 +286,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      #overlay_image:  true
       read_time: true
       comments: # true
       share: False #true
       related: False #true
+      #classes: wide
+
