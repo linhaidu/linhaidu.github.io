@@ -4,9 +4,6 @@ excerpt: 文章详细介绍利用github-page制作个人博客的过程
 header:
   overlay_image: /assets/images/github.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  actions:
-    - label: "Back to Home"
-      url: "https://linhaidu.github.io"
 categories:
   - Blog
 tags:
