@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+#locale                   : "en-US"
 title                    : "Linhaidu's Notes"
 title_separator          : "-"
 name                     : "Linhaidu"
@@ -288,7 +288,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      #layout: single
+      layout: splash 
       author_profile: true
       #overlay_image:  true
       read_time: true
