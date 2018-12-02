@@ -26,7 +26,7 @@ theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/default.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png":
+#teaser                   : "/assets/images/default.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png":
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
