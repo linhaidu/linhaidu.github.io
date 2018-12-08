@@ -1,9 +1,7 @@
 ---
 title: "Scrypt Algorithm"
 excerpt: 介绍Scrypt算法，以及litecoin的优化
-header:
-  overlay_image: /assets/images/litecoin.jpeg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+
 categories:
   - Algorithm
 tags:
