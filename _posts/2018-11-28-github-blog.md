@@ -1,6 +1,6 @@
 ---
 title: "个人博客制作记录"
-excerpt: 文章详细介绍利用github-page制作个人博客的过程
+excerpt: 文章简单介绍利用github-page制作个人博客的过程
 
 categories:
   - Blog
