@@ -288,8 +288,8 @@ defaults:
       path: ""
       type: posts
     values:
-      #layout: single
-      layout: splash 
+      layout: single
+      #layout: splash 
       author_profile: true
       #overlay_image:  true
       read_time: true

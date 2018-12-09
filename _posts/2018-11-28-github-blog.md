@@ -1,9 +1,7 @@
 ---
-title: "github个人博客"
+title: "利用github-page制作个人博客"
 excerpt: 文章详细介绍利用github-page制作个人博客的过程
-header:
-  overlay_image: /assets/images/github.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+
 categories:
   - Blog
 tags:
@@ -11,6 +9,8 @@ tags:
 
 
 ---
+
+# <center> 利用github-page制作个人博客 </center>
 
 ### 一、申请github账号
 
