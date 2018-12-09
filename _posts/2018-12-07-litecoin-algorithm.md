@@ -10,7 +10,7 @@ tags:
 
 ---
 
-# <center> Scrypt算法 </center>
+# 1 Scrypt算法 
 
 Scrypt算法
 
