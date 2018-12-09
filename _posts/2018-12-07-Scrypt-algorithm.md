@@ -7,7 +7,9 @@ categories:
 tags:
   - Original
 
-
+toc: false
+toc_label: "Outline"
+toc_icon: "cog"
 ---
 
 # 1 Scrypt算法 
