@@ -8,7 +8,7 @@ main:
     url: /categories/
   #- title: "Tags"
   #  url: /tags/
-  - title: "Resume"
+  - title: "About me"
     url: /cv/
   #- title: "Pages"
   #  url: /page-archive/
